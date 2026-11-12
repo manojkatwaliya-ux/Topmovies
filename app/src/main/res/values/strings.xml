@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TopMovies</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_live_tv">Live TV</string>
+    <string name="nav_library">Library</string>
+    <string name="action_play_now">Watch Now</string>
+    <string name="action_search">Search</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_add_watchlist">Watchlist</string>
+    <string name="action_in_watchlist">Saved</string>
+    <string name="label_featured">Featured</string>
+    <string name="label_latest_movies">Latest Movies</string>
+    <string name="label_latest_series">Latest TV Series</string>
+    <string name="label_live_channels">Live TV Channels</string>
+    <string name="label_genres">Browse by Genre</string>
+    <string name="label_countries">Browse by Country</string>
+    <string name="label_server_status">API Configuration</string>
+    <string name="error_network">Unable to reach TopMovies REST API. Check your internet connection and tap Retry.</string>
+</resources>

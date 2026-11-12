@@ -1,0 +1,6 @@
+{
+  "name": "TopMovies",
+  "description": "Cinema, TV Series, and Live TV streaming app powered by the TopMovies OXOO REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
